@@ -1,0 +1,4 @@
+# Converted snapshot; source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouBan/DouBan.list
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,douban.fm
+DOMAIN-SUFFIX,doubanio.com

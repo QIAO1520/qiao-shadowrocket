@@ -1,0 +1,5 @@
+# Converted snapshot; source: https://raw.githubusercontent.com/LingJingMaster/Shadowrocket-Rules/refs/heads/main/ApplePush.list
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,gateway.push.apple.com
+DOMAIN-SUFFIX,api.push.apple.com
+DOMAIN-SUFFIX,sandbox.push.apple.com

@@ -1,0 +1,6 @@
+# Converted snapshot; source: https://raw.githubusercontent.com/QIAO1520/Dia-PROXY/refs/heads/main/dia.conf
+DOMAIN-SUFFIX,account.diabrowser.engineering
+DOMAIN-SUFFIX,ai-service.diabrowser.engineering
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
+DOMAIN-SUFFIX,releases.diabrowser
+DOMAIN-SUFFIX,releases.diabrowser.com

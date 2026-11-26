@@ -1,0 +1,1216 @@
+{
+  "sourceCommit": "637ffd6b6a3ddf68c4184d0a1dbc3cb92ed5459d",
+  "sourceBlob": "dfe1f071a466a5263aa6191c08781f1267ad2537",
+  "providers": [
+    {
+      "id": "qiao-01",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Lan/Lan.list",
+      "policy": "DIRECT",
+      "rules": 142,
+      "sha256": "b5d569b9869d4f6655c71b9aed387e6010383300ed29464cbc203dce88e982f5"
+    },
+    {
+      "id": "qiao-02",
+      "url": "https://yfamilys.com/rule/WeChat.list",
+      "policy": "DIRECT",
+      "rules": 21,
+      "sha256": "760d8f28c988dc1a580ee49cb059cb2ae4afc09d02f4036156b55c03401869e3"
+    },
+    {
+      "id": "qiao-03",
+      "url": "https://yfamilys.com/rule/WPS.list",
+      "policy": "DIRECT",
+      "rules": 13,
+      "sha256": "43a041df1eff93ce7f7f4a9ef6c29b1bd1df86f363abacdfc515ae8e8ee34026"
+    },
+    {
+      "id": "qiao-04",
+      "url": "https://yfamilys.com/rule/Alibaba.list",
+      "policy": "DIRECT",
+      "rules": 1623,
+      "sha256": "92d5b3f8071d84daad0322d1ed472b9b3253c24158301cc4ad98ae716a3af77e"
+    },
+    {
+      "id": "qiao-05",
+      "url": "https://yfamilys.com/rule/MeiTuan.list",
+      "policy": "DIRECT",
+      "rules": 19,
+      "sha256": "58e83a67dd437c3793ad432db2c010a71cf9a02dc3ae6323c4b0248490f35d5d"
+    },
+    {
+      "id": "qiao-06",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Sina/Sina.list",
+      "policy": "DIRECT",
+      "rules": 108,
+      "sha256": "060d45d8d3a673886c69760ff9c8a1cd23e699ebc4a9b83283154a503d0ffab7"
+    },
+    {
+      "id": "qiao-07",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Zhihu/Zhihu.list",
+      "policy": "DIRECT",
+      "rules": 7,
+      "sha256": "186cedcd1daf5c1df48179b03da836aeb653a29163b05ab436eb31c01149f214"
+    },
+    {
+      "id": "qiao-08",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list",
+      "policy": "DIRECT",
+      "rules": 4,
+      "sha256": "3ce2ec25b47a2737c7c4b53354a58485a3e21c16c0c015643f0e914a91d06d7e"
+    },
+    {
+      "id": "qiao-09",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list",
+      "policy": "DIRECT",
+      "rules": 13,
+      "sha256": "43a0ebfeae9a5580b40a81300d1de395477e205a0eb81479e2541782e022b8aa"
+    },
+    {
+      "id": "qiao-10",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Baidu/Baidu.list",
+      "policy": "DIRECT",
+      "rules": 251,
+      "sha256": "9a7d19f2787950ff82c43110dcfd25c10fdc5e1b35c11cd9e03d0c9f0c5f1e50"
+    },
+    {
+      "id": "qiao-11",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouBan/DouBan.list",
+      "policy": "DIRECT",
+      "rules": 3,
+      "sha256": "87ad6f475f1623fd7a8eec2d2cf6b741bc577c9ff34841bd66e00900d4e9bdb3"
+    },
+    {
+      "id": "qiao-12",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list",
+      "policy": "DIRECT",
+      "rules": 28,
+      "sha256": "0bec0306937a4829a209c9ab21dd744ff2e440b9f09901e6204a17a3c3a95169"
+    },
+    {
+      "id": "qiao-13",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic_Resolve.list",
+      "policy": "DIRECT",
+      "rules": 28,
+      "sha256": "26bc736ee1eaa307d6c80518798e98a3398d4c5bb6378e3e4d0c54a8d4f7095c"
+    },
+    {
+      "id": "qiao-14",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMedia/ChinaMedia.list",
+      "policy": "DIRECT",
+      "rules": 405,
+      "sha256": "89d65014469f5987bad15afdc0caa8808f97910b31099bf5104fa203f442f4e2"
+    },
+    {
+      "id": "qiao-15",
+      "url": "https://yfamilys.com/rule/JingDong.list",
+      "policy": "DIRECT",
+      "rules": 277,
+      "sha256": "ab7aac3e151fc1a08f72da255882a002a9c9f4a59fe0ef276cee67bc89c960cb"
+    },
+    {
+      "id": "qiao-16",
+      "url": "https://yfamilys.com/rule/TencentVideo.list",
+      "policy": "DIRECT",
+      "rules": 2,
+      "sha256": "5f0848b333bf3c3e733d3c464a88ef22713b8a885253f74853d996a38bbb6579"
+    },
+    {
+      "id": "qiao-17",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/OpenAI/OpenAI.list",
+      "policy": "AI",
+      "rules": 35,
+      "sha256": "9b60203c3d817822009514190abfa0c604b00f26ad20be42c6cf3f895351da8c"
+    },
+    {
+      "id": "qiao-18",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Claude/Claude.list",
+      "policy": "AI",
+      "rules": 3,
+      "sha256": "c5aa138e74ad04eceda6fb222c6ffef87f3511071f6bea6523775b8419ac173b"
+    },
+    {
+      "id": "qiao-19",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Gemini/Gemini.list",
+      "policy": "AI",
+      "rules": 13,
+      "sha256": "0acf44663bad0eb09de3b51a93b3631431e49ac6ee51e06717854c753a25474f"
+    },
+    {
+      "id": "qiao-20",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Copilot/Copilot.list",
+      "policy": "AI",
+      "rules": 51,
+      "sha256": "f24d6a5e7f80e7307b83b226fa90dd52cbae8a9a4ed49b3dbe818779fa3ebb76"
+    },
+    {
+      "id": "qiao-21",
+      "url": "https://raw.githubusercontent.com/QIAO1520/Dia-PROXY/refs/heads/main/dia.conf",
+      "policy": "🇺🇸美国节点",
+      "rules": 5,
+      "sha256": "4a91b2859a730e44c2fe56cf0c7bfca0d74f05a6874f52388179ec7c0af345db"
+    },
+    {
+      "id": "qiao-22",
+      "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
+      "policy": "REJECT",
+      "rules": 214989,
+      "sha256": "aa6a5756fb9ee2b42ec821bc8799f5644fdc5a41dc093e66e1800fa0e881e491"
+    },
+    {
+      "id": "qiao-23",
+      "url": "https://yfamilys.com/rule/AntiAD.list",
+      "policy": "REJECT",
+      "rules": 290447,
+      "sha256": "e3bf258d37bcd90ba371330df8a5385e15529e70f30d0b9f805b6b4a14f6ea50"
+    },
+    {
+      "id": "qiao-24",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list",
+      "policy": "REJECT",
+      "rules": 767,
+      "sha256": "6af5f5ba61aad9cfead3f9984013a1013353f4a31e5618d0e565d87b43defdf2"
+    },
+    {
+      "id": "qiao-25",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTube/YouTube.list",
+      "policy": "海外媒体",
+      "rules": 183,
+      "sha256": "b36758eb92610c7bd7802bfb724577376f89843e83c8f90ed6e63e251dd86639"
+    },
+    {
+      "id": "qiao-26",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Netflix/Netflix.list",
+      "policy": "海外媒体",
+      "rules": 1156,
+      "sha256": "613ffb47f9b72312effffb88412b848b6a3d5e319f02a1ea7999b476a79cb84c"
+    },
+    {
+      "id": "qiao-27",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Disney/Disney.list",
+      "policy": "海外媒体",
+      "rules": 172,
+      "sha256": "4ef6efa948db186008507e03256da5a4b9c87db0abdbe8df1453b3fa3a87887b"
+    },
+    {
+      "id": "qiao-28",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/HBO/HBO.list",
+      "policy": "海外媒体",
+      "rules": 47,
+      "sha256": "6cbeae1f7380dd534af2ebb723fb3d76b09aa11adbf4ad17d1803ac85436dabe"
+    },
+    {
+      "id": "qiao-29",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Spotify/Spotify.list",
+      "policy": "海外媒体",
+      "rules": 29,
+      "sha256": "43ab71760f3501a144d8d85439e5d57a3274845f829a570b9f35072d1e665c52"
+    },
+    {
+      "id": "qiao-30",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Telegram/Telegram.list",
+      "policy": "TELEGRAM",
+      "rules": 40,
+      "sha256": "acb55d215f60a5243a922acc0d05f325d23d946777f1effb32bb3a436b61f4f9"
+    },
+    {
+      "id": "qiao-31",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Twitter/Twitter.list",
+      "policy": "TWITTER",
+      "rules": 33,
+      "sha256": "b0d626c50d4461e1f08b671011a8e6c89ddf2e982dad3e0f43ad087add1a9830"
+    },
+    {
+      "id": "qiao-32",
+      "url": "https://yfamilys.com/rule/Instagram.list",
+      "policy": "META",
+      "rules": 76,
+      "sha256": "5d2fa6c7d0e29e093d97725759ef6fafb9a1f854e502c341bc19c94f362d2f90"
+    },
+    {
+      "id": "qiao-33",
+      "url": "https://yfamilys.com/rule/Threads.list",
+      "policy": "META",
+      "rules": 2,
+      "sha256": "513812753af3b469b96e70780370f7096c08c8fecf16d5f78e694eb06a7a2793"
+    },
+    {
+      "id": "qiao-34",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Facebook/Facebook.list",
+      "policy": "META",
+      "rules": 570,
+      "sha256": "27476d609a9c00677817cb6eddca6f0341c3405dd39efd12a90e2b3f6750f203"
+    },
+    {
+      "id": "qiao-35",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Sony/Sony.list",
+      "policy": "游戏平台",
+      "rules": 116,
+      "sha256": "9a7b061f79e7be911309b184af74c2a484ff4db4b2ffa44a954ce9845928ce0a"
+    },
+    {
+      "id": "qiao-36",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Nintendo/Nintendo.list",
+      "policy": "游戏平台",
+      "rules": 126,
+      "sha256": "fdbb49abc26bb94ace4106e8c367d0245ed170b3ff7392b83e4a32d54475c61a"
+    },
+    {
+      "id": "qiao-37",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Epic/Epic.list",
+      "policy": "游戏平台",
+      "rules": 15,
+      "sha256": "4dc47c046dddb7d9d733a1929a0b3a7ef27e677540d69747d2dd486c6cd8a842"
+    },
+    {
+      "id": "qiao-38",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/SteamCN/SteamCN.list",
+      "policy": "游戏平台",
+      "rules": 17,
+      "sha256": "447c5eed54374a9be57af7f730881b5c542857b5d3a446bd9ae4fe0a7dc1b316"
+    },
+    {
+      "id": "qiao-39",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Steam/Steam.list",
+      "policy": "游戏平台",
+      "rules": 69,
+      "sha256": "e4567cc8906a489ab76a529d30b8543f3c6fdac1658fdc8d2b00cbb552c930a8"
+    },
+    {
+      "id": "qiao-40",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Game/Game.list",
+      "policy": "游戏平台",
+      "rules": 612,
+      "sha256": "6925b4613f962aa7b4f0eba34ac57aad4c337805a75dac1cab98fb963c1733f9"
+    },
+    {
+      "id": "qiao-41",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Microsoft/Microsoft.list",
+      "policy": "微软服务",
+      "rules": 668,
+      "sha256": "0a869434f40cd08661b7e3eebbb4670e9f0560784bfab3423478b57159aa859d"
+    },
+    {
+      "id": "qiao-42",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list",
+      "policy": "谷歌服务",
+      "rules": 695,
+      "sha256": "f55fa47d57c1ccd6a279e2b5509411bca97264030f41ddabd464c4d130550efc"
+    },
+    {
+      "id": "qiao-43",
+      "url": "https://raw.githubusercontent.com/LingJingMaster/Shadowrocket-Rules/refs/heads/main/ApplePush.list",
+      "policy": "苹果推送",
+      "rules": 4,
+      "sha256": "adffa66d76f6889ed72ff2a1e539f03d079f0d22a74540d90b377ff4074d53cd"
+    },
+    {
+      "id": "qiao-44",
+      "url": "https://raw.githubusercontent.com/LingJingMaster/Shadowrocket-Rules/refs/heads/main/Apple.list",
+      "policy": "苹果服务",
+      "rules": 27,
+      "sha256": "6cd5979f317be2958d68a6486e9be20e4c66fc7a0cd6cf378db4fbcebcc9bb2d"
+    },
+    {
+      "id": "qiao-45",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/TikTok/TikTok.list",
+      "policy": "TIKTOK",
+      "rules": 34,
+      "sha256": "e023f35e151f3388de41abc998061da01869b6a7bd54e94599ba23b5f8dd9a07"
+    },
+    {
+      "id": "qiao-46",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/GitHub/GitHub.list",
+      "policy": "PROXY",
+      "rules": 31,
+      "sha256": "a6c9656ddcd5896ce8f998034fbd33bade59f21920a4565747f1e9147709ef00"
+    },
+    {
+      "id": "qiao-47",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/China/China.list",
+      "policy": "DIRECT",
+      "rules": 32,
+      "sha256": "207fefce5751d212dc42a9172884e4fc8fb79f1d5a4dc67d9096801d13a8671b"
+    },
+    {
+      "id": "qiao-48",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list",
+      "policy": "PROXY",
+      "rules": 7378,
+      "sha256": "fc94e2e35df628d2d7114265d9aba6b7cd2d70bdb35ec4626875bfdc20f160b7"
+    },
+    {
+      "id": "qiao-49",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Global/Global.list",
+      "policy": "PROXY",
+      "rules": 155,
+      "sha256": "fd723a86859ac88c85edabd468264ccbdfa636cf5055de4d41dc974b3d6ed17a"
+    }
+  ],
+  "omitted": [
+    {
+      "id": "qiao-12",
+      "line": "USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-12",
+      "line": "USER-AGENT,NeteaseMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-13",
+      "line": "USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-13",
+      "line": "USER-AGENT,NeteaseMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,*bili*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,Bilibili*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,bili*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,bili-inter*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,%E4%BC%98%E9%85%B7*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,*QIYI*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,AcFun*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,DomesticMedia*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,MGTV*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,MOO%E9%9F%B3%E4%B9%90*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,MOO*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,MiguVideo*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,NeteaseMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,PPStream*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,QIYI*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,QQ%E9%9F%B3%E4%B9%90",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,QQ%e9%9f%b3%e4%b9%90*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,QQMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,QYPlayer*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,TencentMidasConnect*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,YYeTs*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,Youku*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,baiduyinyue",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,bilibili*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,iQiYi*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,iQiyi*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,live4iphone*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,qqlive4iphone*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,walkman*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,xiami*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-14",
+      "line": "USER-AGENT,youku*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-23",
+      "line": "USER-AGENT,AVOS*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,/\\d+/resolve",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,/\\d+/sign_d",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/.+?\\.beacon\\.qq\\.com",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/.+?\\.l\\.qq\\.com",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/\\w+\\.gdt\\.qq\\.com",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/ad\\d\\.sina\\.com",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/ad\\d\\.sina\\.com.cn",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/app\\.58\\.com\\/api\\/log\\/",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/d\\d.sinaimg.cn",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/sa\\d\\.tuisong\\.baidu\\.com",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/sax\\w?\\.sina\\.com\\.cn",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/update\\.pan\\.baidu\\.com\\/statistics",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/cdn-1rtb\\.caiyunapp\\.com/creative/.*$",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-24",
+      "line": "URL-REGEX,^https?:\\/\\/goblin\\.hupu\\.com/[^/]+/[^/]+\\/interfaceAd\\/",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-25",
+      "line": "USER-AGENT,*YouTubeMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-25",
+      "line": "USER-AGENT,*com.google.ios.youtubemusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-25",
+      "line": "USER-AGENT,*youtube*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-25",
+      "line": "USER-AGENT,YouTube*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-25",
+      "line": "USER-AGENT,YouTubeMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-25",
+      "line": "USER-AGENT,com.google.ios.youtube*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-25",
+      "line": "USER-AGENT,com.google.ios.youtubemusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-26",
+      "line": "USER-AGENT,Argo*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-27",
+      "line": "USER-AGENT,Disney+*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-28",
+      "line": "USER-AGENT,HBO%20NOW*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-28",
+      "line": "USER-AGENT,HBOMAX*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-29",
+      "line": "USER-AGENT,Spotify*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-41",
+      "line": "USER-AGENT,Microsoft*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-41",
+      "line": "USER-AGENT,OneDrive*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-41",
+      "line": "USER-AGENT,OneDriveiOSApp*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-42",
+      "line": "USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-42",
+      "line": "USER-AGENT,*com.google.Drive*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-42",
+      "line": "USER-AGENT,Google.Drive*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,*FindMyiPhone?",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,*Music?",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,*WeatherFoundation*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,*com.apple.Maps?",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,*com.apple.mobileme.fmip1",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,FMDClient*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,FMFD*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,FindMyFriends*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,FindMyiPhone*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,Maps*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,Wallet*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,com.apple.Maps",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,com.apple.appstored*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,fmflocatord*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,geod*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,locationd*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,passd*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,Music*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,AppleNews*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,com.apple.news*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,com.apple.trustd*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,AppleTV*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-44",
+      "line": "USER-AGENT,com.apple.tv*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-45",
+      "line": "USER-AGENT,TikTok*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,%E4%BC%98%E9%85%B7*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,%E5%8D%B3%E5%88%BB*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,*Vainglory*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,AdBlock*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,Best%20Trace*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,MegaWerewolf*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,MicroMessenger%20Client",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,MicroMessenger*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,MicroMessengerClient*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,Microsoft*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,Moke*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,NeteaseMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,QQ*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,RemotePlay*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,TIM*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,TeamViewer*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,WeChat*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,WebTorrent*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,YYeTs*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,arrowio*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,balls*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,cmb*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,cmblife*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,eusoft_ting_en_iphone",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,hearthstone*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,hide*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-47",
+      "line": "USER-AGENT,ting_en",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,AbemaTV*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,All4*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Anime*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Argo*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,BBCiPlayer*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,DAZN*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Deezer*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Disney+*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,FOX%20NOW*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,HBO%20GO%20PROD%20HKG*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,HBO%20NOW*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,HWTVMobile*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,ITV_Player*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,InstantVideo.US*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,JOOX*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,KKTV*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,LINE%20TV*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,My5*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Niconico*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,PBS*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Pandora*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Prime%20Video*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,SoundCloud*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Spotify*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,TIDAL*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,TaiwanGood*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,TikTok*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,TwDramas",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Viu*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,ViuTV*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,WeMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,YouTube*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,YouTubeMusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,com.google.ios.youtube*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,com.google.ios.youtubemusic*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,com.kktv.ios.kktv*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,encoreTVB*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,mytv*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Duolingo*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,OneDrive*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,PayPal*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,Roam*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,WhatsApp*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,battleroyale*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,com.apple.trustd*",
+      "reason": "unsupported rule type"
+    },
+    {
+      "id": "qiao-49",
+      "line": "USER-AGENT,hearthstone*",
+      "reason": "unsupported rule type"
+    }
+  ]
+}
